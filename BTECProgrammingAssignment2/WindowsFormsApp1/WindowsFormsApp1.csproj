@@ -44,16 +44,16 @@
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="My Code\BrainStormPost.cs" />
-    <Compile Include="My Code\EntryForm.cs">
+    <Compile Include="DataModel\BrainStormPost.cs" />
+    <Compile Include="DataModel\EntryForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="My Code\EntryForm.Designer.cs">
+    <Compile Include="DataModel\EntryForm.Designer.cs">
       <DependentUpon>EntryForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="My Code\EntryForm.resx">
+    <EmbeddedResource Include="DataModel\EntryForm.resx">
       <DependentUpon>EntryForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
