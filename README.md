@@ -8,6 +8,7 @@ Simple WinForm application written in Visual C# as a simple demo for OOP and Eve
 ## Usage
 * Clone using Git command: ```https://github.com/mnhthng-thms/BTECProgrammingAssignment2.git```
 * Or clone using GitHub Desktop (Windows)
+> Final executable application can be found on [/BTECProgrammingAssignment2/WindowsFormsApp1/bin/Debug](https://github.com/mnhthng-thms/BTECProgrammingAssignment2/tree/master/BTECProgrammingAssignment2/WindowsFormsApp1/bin/Debug)
 
 ## Notes
 This was my code submission for the subject Unit 3-Programming of BTEC Level 3 during my studying at FPT Greenwich University HaNoi in 02/2019. 
