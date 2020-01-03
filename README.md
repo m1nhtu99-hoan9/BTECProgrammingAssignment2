@@ -1,6 +1,6 @@
 # BrainStormPosts
 
-Simple WinForm application written in Visual C# as a simple demo for OOP and Event-Oriented Programming. 
+Simple WinForm application as demo for OOP and Event-Oriented Programming in Visual C#. 
 
 ## Screenshots
 ![ScreenRecord](https://raw.githubusercontent.com/mnhthng-thms/BTECProgrammingAssignment2/master/Screenshots.gif)
